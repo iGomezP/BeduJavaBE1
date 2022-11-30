@@ -6,7 +6,7 @@ Repo con evidencias del módulo Java BE 1
 
 | Sesión | Tema                                                         |
 |--------|--------------------------------------------------------------|
-|    1   | [Construcción de proyectos con Maven](./1. Sesión)                |
+|    1   | [Construcción de proyectos con Maven]("./1. Sesión")              |
 |    2   | [Patrones de diseño](./2. Sesion)                                 |
 |    3   | [Anotaciones y pruebas unitarias con JUnit](./3. Sesión)          |
 |    4   | [Introducción a Spring Boot](./4. Sesión)                         |
