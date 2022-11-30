@@ -5,8 +5,8 @@ termina=11
 
 until [ $termina -le $contador ]
 do
-	mkdir "$contador. Sesión"
-	cd "$contador. Sesión"
+	mkdir "Sesion-$contador"
+	cd "Sesion-$contador"
 	mkdir "2. Work"
 	mkdir "3. Post-Work"
 	cd ..
