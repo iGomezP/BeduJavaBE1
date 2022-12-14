@@ -1,0 +1,9 @@
+plugins {
+    id 'application'
+}
+group 'org.bedu'
+version '1.0-SNAPSHOT'
+
+application {
+    mainClass = "Application"
+}
