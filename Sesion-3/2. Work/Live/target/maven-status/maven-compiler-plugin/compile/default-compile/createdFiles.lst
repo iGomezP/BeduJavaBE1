@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\model\CrearCurso.class
+com\example\demo\model\Curso.class
+com\example\demo\controller\PruebaController.class
+com\example\demo\controller\CursoController.class
