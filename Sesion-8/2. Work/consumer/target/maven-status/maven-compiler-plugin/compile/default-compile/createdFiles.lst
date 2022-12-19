@@ -1,0 +1,4 @@
+org/bedu/jms/model/Email.class
+org/bedu/jms/JmsApplication.class
+org/bedu/jms/config/AppConfig.class
+org/bedu/jms/Consumer.class

@@ -1,0 +1,16 @@
+<Configuration status="INFO">
+    <Appenders>
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd hh:mm:ss} %p %m%n"/>
+        </Console>
+        <File name="FileAppender" fileName="Logs-${date:yyyyMMdd}.log" immediateFlush="false" append="false">
+            <PatternLayout pattern="%d{yyy-MM-dd hh:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="ConsoleAppender" />
+            <AppenderRef ref="FileAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

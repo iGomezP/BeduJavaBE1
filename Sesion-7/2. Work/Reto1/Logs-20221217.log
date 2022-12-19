@@ -1,0 +1,28 @@
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - Array sin ordenar: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - [A, B, C, D]
+2022-12-17 03:44:37 [main] WARN  org.bedu.SortString - El arreglo ya está ordenado.
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - Array sin ordenar: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - [D, C, A, B]
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - Se terminó de ordenar el arreglo.
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - Array sin ordenar: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - []
+2022-12-17 03:44:37 [main] ERROR org.bedu.SortString - El arreglo está vacío.
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - Array sin ordenar: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortString - null
+2022-12-17 03:44:37 [main] ERROR org.bedu.SortString - El arreglo está vacío.
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - Array de números sin ordenar: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - [1, 2, 3, 4]
+2022-12-17 03:44:37 [main] WARN  org.bedu.SortInt - El arreglo ya está ordenado.
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - Array ordenado: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - [1, 2, 3, 4]
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - Array de números sin ordenar: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - [781, 363, 594, 247, 764, 980, 546, 787, 677, 962]
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - Se terminó de ordenar el arreglo.
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - Array ordenado: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - [247, 363, 546, 594, 677, 764, 781, 787, 962, 980]
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - Array de números sin ordenar: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - []
+2022-12-17 03:44:37 [main] ERROR org.bedu.SortInt - El arreglo está vacío.
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - Array de números sin ordenar: 
+2022-12-17 03:44:37 [main] INFO  org.bedu.SortInt - null
+2022-12-17 03:44:37 [main] ERROR org.bedu.SortInt - El arreglo está vacío.

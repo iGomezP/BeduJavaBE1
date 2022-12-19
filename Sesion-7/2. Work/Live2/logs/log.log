@@ -1,0 +1,7 @@
+[14/12/2022 - 09:59:47 p. m.] [logStarting] [org.bedu.java.backend.logger.LoggerApplication - StartupInfoLogger.java] [main] [INFO ] - Starting LoggerApplication using Java 17.0.5 with PID 29134 (/home/vakzor/Documentos/Bedu/2. Java BackEnd/7. Sesión/2. Work/Live2/target/classes started by vakzor in /home/vakzor/Documentos/Bedu/2. Java BackEnd/7. Sesión/2. Work/Live2)
+[14/12/2022 - 09:59:47 p. m.] [logStartupProfileInfo] [org.bedu.java.backend.logger.LoggerApplication - SpringApplication.java] [main] [INFO ] - No active profile set, falling back to 1 default profile: "default"
+[14/12/2022 - 09:59:47 p. m.] [logStarted] [org.bedu.java.backend.logger.LoggerApplication - StartupInfoLogger.java] [main] [INFO ] - Started LoggerApplication in 0.48 seconds (process running for 0.671)
+[14/12/2022 - 09:59:47 p. m.] [run] [org.bedu.java.backend.logger.Runner - Runner.java] [main] [INFO ] - Aplicación de Spring Boot inicializada
+[14/12/2022 - 09:59:47 p. m.] [run] [org.bedu.java.backend.logger.Runner - Runner.java] [main] [WARN ] - El método debe recibir una cadena no vacía
+[14/12/2022 - 09:59:47 p. m.] [run] [org.bedu.java.backend.logger.Runner - Runner.java] [main] [ERROR] - Hubo un problema crítico en la aplicación
+[14/12/2022 - 09:59:47 p. m.] [run] [org.bedu.java.backend.logger.Runner - Runner.java] [main] [DEBUG] - App: Demo de Loggers
