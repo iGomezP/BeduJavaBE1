@@ -1,7 +1,7 @@
 #!/bin/bash
 # Generar Carpetas de sesiones
-contador=1
-termina=11
+contador=6
+termina=8
 
 until [ $termina -le $contador ]
 do

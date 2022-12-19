@@ -1,0 +1,28 @@
+04:20:59.837 [main] INFO  org.bedu.SortString - Array sin ordenar: 
+04:20:59.840 [main] INFO  org.bedu.SortString - [A, B, C, D]
+04:20:59.840 [main] WARN  org.bedu.SortString - El arreglo ya está ordenado.
+04:20:59.840 [main] INFO  org.bedu.SortString - Array sin ordenar: 
+04:20:59.840 [main] INFO  org.bedu.SortString - [D, C, A, B]
+04:20:59.840 [main] INFO  org.bedu.SortString - Se terminó de ordenar el arreglo.
+04:20:59.840 [main] INFO  org.bedu.SortString - Array sin ordenar: 
+04:20:59.841 [main] INFO  org.bedu.SortString - []
+04:20:59.841 [main] ERROR org.bedu.SortString - El arreglo está vacío.
+04:20:59.841 [main] INFO  org.bedu.SortString - Array sin ordenar: 
+04:20:59.841 [main] INFO  org.bedu.SortString - null
+04:20:59.841 [main] ERROR org.bedu.SortString - El arreglo está vacío.
+04:20:59.841 [main] INFO  org.bedu.SortInt - Array de números sin ordenar: 
+04:20:59.841 [main] INFO  org.bedu.SortInt - [1, 2, 3, 4]
+04:20:59.842 [main] WARN  org.bedu.SortInt - El arreglo ya está ordenado.
+04:20:59.842 [main] INFO  org.bedu.SortInt - Array ordenado: 
+04:20:59.842 [main] INFO  org.bedu.SortInt - [1, 2, 3, 4]
+04:20:59.842 [main] INFO  org.bedu.SortInt - Array de números sin ordenar: 
+04:20:59.842 [main] INFO  org.bedu.SortInt - [614, 988, 234, 799, 19, 212, 489, 593, 995, 511]
+04:20:59.842 [main] INFO  org.bedu.SortInt - Se terminó de ordenar el arreglo.
+04:20:59.842 [main] INFO  org.bedu.SortInt - Array ordenado: 
+04:20:59.842 [main] INFO  org.bedu.SortInt - [19, 212, 234, 489, 511, 593, 614, 799, 988, 995]
+04:20:59.842 [main] INFO  org.bedu.SortInt - Array de números sin ordenar: 
+04:20:59.842 [main] INFO  org.bedu.SortInt - []
+04:20:59.842 [main] ERROR org.bedu.SortInt - El arreglo está vacío.
+04:20:59.842 [main] INFO  org.bedu.SortInt - Array de números sin ordenar: 
+04:20:59.843 [main] INFO  org.bedu.SortInt - null
+04:20:59.843 [main] ERROR org.bedu.SortInt - El arreglo está vacío.
